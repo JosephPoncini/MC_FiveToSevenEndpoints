@@ -15,9 +15,9 @@ public class ReverseItNumericController : ControllerBase
     }
 
     [HttpGet]
-    [Route("Numerical/{numstring}")]
-    public string ReverseItNumMaching(string numstring)
+    [Route("Numerical/{num}")]
+    public string ReverseItNumMaching(string num)
     {
-        return _reverseItNumericService.ReverseItNumMaching(numstring);
+        return _reverseItNumericService.ReverseItNumMaching(num);
     }
 }

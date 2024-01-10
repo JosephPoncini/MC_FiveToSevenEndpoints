@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MC_FiveToSevenEndpoints.Controllers;
 [ApiController]
-[Route("api/[controller]")]
+[Route("[controller]")]
 public class ReverseItAlphaController : ControllerBase
 {
     private readonly IReverseItAlphaService _reverseItAlphaService;
