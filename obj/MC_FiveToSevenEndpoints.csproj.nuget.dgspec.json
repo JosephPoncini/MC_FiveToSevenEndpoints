@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj": {}
+    "C:\\Users\\EYHST\\Desktop\\CodeStack\\Level 2\\Peer Review\\jo_MC_5_to_7\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj": {
+    "C:\\Users\\EYHST\\Desktop\\CodeStack\\Level 2\\Peer Review\\jo_MC_5_to_7\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj",
+        "projectUniqueName": "C:\\Users\\EYHST\\Desktop\\CodeStack\\Level 2\\Peer Review\\jo_MC_5_to_7\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj",
         "projectName": "MC_FiveToSevenEndpoints",
-        "projectPath": "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj",
-        "packagesPath": "C:\\Users\\jxpon\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_FiveToSevenEndpoints\\obj\\",
+        "projectPath": "C:\\Users\\EYHST\\Desktop\\CodeStack\\Level 2\\Peer Review\\jo_MC_5_to_7\\MC_FiveToSevenEndpoints\\MC_FiveToSevenEndpoints.csproj",
+        "packagesPath": "C:\\Users\\EYHST\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EYHST\\Desktop\\CodeStack\\Level 2\\Peer Review\\jo_MC_5_to_7\\MC_FiveToSevenEndpoints\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jxpon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\EYHST\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

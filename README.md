@@ -8,6 +8,6 @@
 
 // 
 
-// Peer Reviewed By:
+// Peer Reviewed By: Kyle Ma 1/10/2024
 
-// Peer Review:
+// Peer Review: Everything works as intended. Routes have proper input requirements and logic in each service works. Nice job differentiating the name of the controller and the functions with the tag 'machine' for each function. 
