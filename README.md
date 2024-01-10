@@ -4,7 +4,7 @@
 
 // MiniChallengeFiveToSeven - Endpoints
 
-// Designed an API with 4 endpoints based on mini challenges from the Combine:
+// Designed an API with 4 endpoints based on mini challenges from the Combine: MADLIB, OddOrEven, ReversIt (AlphaNumeric), ReverseIt (Numeric)
 
 // 
 
