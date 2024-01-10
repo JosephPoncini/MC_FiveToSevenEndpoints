@@ -1,7 +1,7 @@
 using MC_FiveToSevenEndpoints.Services.MadLib;
 using MC_FiveToSevenEndpoints.Services.OddOrEven;
-using MC_FiveToSevenEndpoints.Services.ReverseIt;
 using MC_FiveToSevenEndpoints.Services.ReverseItAlpha;
+using MC_FiveToSevenEndpoints.Services.ReverseItNumeric;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,8 +13,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IMadLibService, MadLibService>();
 builder.Services.AddScoped<IOddOrEvenService, OddOrEvenService>();
-builder.Services.AddScoped<IReverseItService, ReverseItService>();
 builder.Services.AddScoped<IReverseItAlphaService, ReverseItAlphaService>();
+builder.Services.AddScoped<IReverseItNumericService, ReverseItNumericService>();
 
 var app = builder.Build();
 
